@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "main.js": {
+      "files": [
+        "scripts/main.js"
+      ],
+      "main": true
+    },
+    "main.css": {
+      "files": [
+        "styles/main.scss"
+      ],
+      "main": true
+    },
+    "jquery.js": {
+      "bower": ["jquery"]
+    }
+  },
+  "config": {
+    "devUrl": "http://preview.pgsrv9o5mictbj4ikid4vvh1zths38frxmuznpmta3ot7qfr.box.codeanywhere.com"
+  }
+}
